@@ -1,3 +1,9 @@
+**This module is no longer maintained and likely not working as expected.**
+
+Please check https://github.com/hiveeyes/dwdweather2 for a replacement.
+
+-----
+
 dwd-weather
 ===========
 
